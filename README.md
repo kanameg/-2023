@@ -22,11 +22,18 @@
 * 六波羅蜜寺
 [Map](https://www.google.co.jp/maps/place/%E5%85%AD%E6%B3%A2%E7%BE%85%E8%9C%9C%E5%AF%BA/@35.0006295,135.7543588,14.76z/data=!3m1!5s0x600108c7b5bca6f9:0xeac86fb0c5636dc7!4m6!3m5!1s0x600108cc60ef250f:0xa145712334ef4e9e!8m2!3d34.9970888!4d135.7733663!16s%2Fm%2F0gmc5yf?hl=ja) 
 [Web](https://rokuhara.or.jp/)
+    * 空也像
+    * 平清盛像
+    * 運慶坐像
     * 六波羅探題跡
     * 六道之辻
 * 建仁寺
 [Map](https://www.google.com/maps/place/%E5%BB%BA%E4%BB%81%E5%AF%BA/@35.0006703,135.7701648,15.93z/data=!4m6!3m5!1s0x600108c1242b7b27:0x7e608f1986c5bb52!8m2!3d35.0002854!4d135.7738985!16s%2Fm%2F027phyz)
 [Web](https://www.kenninji.jp/)
+    * 本尊 十一面観音菩薩坐像
+    * 釈迦如来坐像（法堂）
+    * 風神雷神図屏風（複製）
+    * 双龍図 小泉淳作
     * 安井金比羅宮
 * 昼食 祇園 うえもり 12:00 予約済み
 [Map](https://www.google.com/maps/place/%E7%A5%87%E5%9C%92%E3%81%86%E3%81%88%E3%82%82%E3%82%8A/@35.002615,135.7753914,19.4z/data=!4m15!1m8!3m7!1s0x600108c164135885:0x60ff3b7013e0d8ba!2z44CSNjA1LTAwNzQg5Lqs6YO95bqc5Lqs6YO95biC5p2x5bGx5Yy656WH5ZyS55S65Y2X5YG077yV77yX77yQ4oiS77yW!3b1!8m2!3d35.0025857!4d135.7754076!16s%2Fg%2F12hm5mzdm!3m5!1s0x600108c1637bcf1b:0xc98a9b3a1f42386a!8m2!3d35.0028202!4d135.7754464!16s%2Fg%2F1ptxk3h9c)
@@ -35,7 +42,7 @@
     * 祇園四条駅
     * 出町柳駅
 * 鴨川デルタ
-* 旧三井家下鴨別邸
+* 旧三井家下鴨別邸 時間がなかったら行かない
 [Map](https://www.google.com/maps/place/%E6%97%A7%E4%B8%89%E4%BA%95%E5%AE%B6%E4%B8%8B%E9%B4%A8%E5%88%A5%E9%82%B8/@35.0317766,135.7718892,15z/data=!4m6!3m5!1s0x60010842be02a667:0xc3c7177b68096c98!8m2!3d35.0317766!4d135.7718892!16s%2Fg%2F11c0xz132f)
 [Web](https://ja.kyoto.travel/tourism/article/mitsuike/)
 * 下鴨神社
@@ -46,6 +53,10 @@
 * 瑠璃光院
 [Map](https://www.google.com/maps/place/%E7%91%A0%E7%92%83%E5%85%89%E9%99%A2/@35.0647272,135.8071195,18.09z/data=!4m6!3m5!1s0x600109c2848b9b5d:0xc85f1b46624ab348!8m2!3d35.0634573!4d135.8087174!16s%2Fg%2F11f5hl8b33)
 [Web](https://rurikoin.komyoji.com/)
+    * 瑠璃の庭
+    * 臥竜の庭
+    * 洛中洛外図屏風
+    * 書院
     * 写経
 * ビール巡り
     * BEER PUB ICHI-YA
@@ -66,9 +77,15 @@
 * 仁和寺
 [Map](https://www.google.co.jp/maps/place/%E4%BB%81%E5%92%8C%E5%AF%BA/@35.0263019,135.711026,16.26z/data=!4m6!3m5!1s0x6001077fbd662ac3:0xbd7b437e3da08bd8!8m2!3d35.029378!4d135.7138105!16s%2Fg%2F11f39jy3tw?hl=ja)
 [Web](https://ninnaji.jp/)
+    * 桜の名所 御室桜(おむろざくら)
+    * 国指定庭園 「北庭・南庭」
+    * 紫宸殿 「金堂」
+    * 五重の塔
 * 龍安寺
 [Map](https://www.google.co.jp/maps/place/%E9%BE%8D%E5%AE%89%E5%AF%BA/@35.0334834,135.7171835,16.2z/data=!4m6!3m5!1s0x6001a82a301cbaa7:0xe1ab173e46d78542!8m2!3d35.0344943!4d135.7182634!16zL20vMDRkYnhr?hl=ja)
 [web](http://www.ryoanji.jp/smph/)
+    * 石庭
+    * 細川護煕の雲龍図が公開されている
     * 後冷泉天皇陵
     * 堀河天皇陵
     * 三条天皇陵
