@@ -61,9 +61,7 @@
 * ビール巡り
     * BEER PUB ICHI-YA
         * https://k127214.gorp.jp/
-    * 京都醸造 タップルーム
     * 京都ビアラボ
-    * 西陣麦酒 タップルーム
 * ホテル
 [Tabist スパークリングドルフィンズイン 京都]
 [Map](https://www.google.com/maps/place/Tabist+%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%89%E3%83%AB%E3%83%95%E3%82%A3%E3%83%B3%E3%82%BA%E3%82%A4%E3%83%B3+%E4%BA%AC%E9%83%BD/@34.9797166,135.7628634,21z/data=!4m9!3m8!1s0x60010f4d664242d5:0xe5e6cb7e16df9c6f!5m2!4m1!1i2!8m2!3d34.9797945!4d135.7627787!16s%2Fg%2F1tcwr0w3)  
