@@ -73,14 +73,9 @@
 ### 2023年 3月 24日
 
 * ホテル
-* JR 京都駅
-* 仁和寺
-[Map](https://www.google.co.jp/maps/place/%E4%BB%81%E5%92%8C%E5%AF%BA/@35.0263019,135.711026,16.26z/data=!4m6!3m5!1s0x6001077fbd662ac3:0xbd7b437e3da08bd8!8m2!3d35.029378!4d135.7138105!16s%2Fg%2F11f39jy3tw?hl=ja)
-[Web](https://ninnaji.jp/)
-    * 桜の名所 御室桜(おむろざくら)
-    * 国指定庭園 「北庭・南庭」
-    * 紫宸殿 「金堂」
-    * 五重の塔
+* 金閣寺
+[Map](https://www.google.co.jp/maps/place/%E9%87%91%E9%96%A3%E5%AF%BA/@35.0394763,135.7280275,16z/data=!4m6!3m5!1s0x6001a820c0eb46bd:0xee4272b1c22645f!8m2!3d35.03937!4d135.7292431!16zL20vMDFrbjR3?hl=ja)
+[web](https://www.shokoku-ji.jp/kinkakuji/)
 * 龍安寺
 [Map](https://www.google.co.jp/maps/place/%E9%BE%8D%E5%AE%89%E5%AF%BA/@35.0334834,135.7171835,16.2z/data=!4m6!3m5!1s0x6001a82a301cbaa7:0xe1ab173e46d78542!8m2!3d35.0344943!4d135.7182634!16zL20vMDRkYnhr?hl=ja)
 [web](http://www.ryoanji.jp/smph/)
@@ -89,9 +84,13 @@
     * 後冷泉天皇陵
     * 堀河天皇陵
     * 三条天皇陵
-* 金閣寺
-[Map](https://www.google.co.jp/maps/place/%E9%87%91%E9%96%A3%E5%AF%BA/@35.0394763,135.7280275,16z/data=!4m6!3m5!1s0x6001a820c0eb46bd:0xee4272b1c22645f!8m2!3d35.03937!4d135.7292431!16zL20vMDFrbjR3?hl=ja)
-[web](https://www.shokoku-ji.jp/kinkakuji/)
+* 仁和寺
+[Map](https://www.google.co.jp/maps/place/%E4%BB%81%E5%92%8C%E5%AF%BA/@35.0263019,135.711026,16.26z/data=!4m6!3m5!1s0x6001077fbd662ac3:0xbd7b437e3da08bd8!8m2!3d35.029378!4d135.7138105!16s%2Fg%2F11f39jy3tw?hl=ja)
+[Web](https://ninnaji.jp/)
+    * 桜の名所 御室桜(おむろざくら)
+    * 国指定庭園 「北庭・南庭」
+    * 紫宸殿 「金堂」
+    * 五重の塔
 * 17:00 上牧駅着
 * 17:15 おばさん宅 着
 * 18:15 おばさん宅 発
